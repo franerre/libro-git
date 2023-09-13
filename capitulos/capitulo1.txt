@@ -1,2 +1,3 @@
 Git es un sistema de control de versiones ideado por Linus Torvalds. 
 Este es un mensaje nuevo
+Y este es el otro nuevo
